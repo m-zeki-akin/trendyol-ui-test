@@ -1,0 +1,5 @@
+{
+	"delete all cookies" : true,
+	"page load timeout" : 10,
+	"implicity wait" : 5
+}
